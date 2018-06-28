@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7151" started-at="2018-06-28T04:56:16Z" finished-at="2018-06-28T04:56:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7151" started-at="2018-06-28T04:56:16Z" finished-at="2018-06-28T04:56:23Z">
+      <class name="getRequest.TestAllNodes">
+        <test-method status="PASS" signature="DisplayAllNodesInWeatherAPI()[pri:0, instance:getRequest.TestAllNodes@23ceabc1]" name="DisplayAllNodesInWeatherAPI" duration-ms="7057" started-at="2018-06-27T23:56:16Z" finished-at="2018-06-27T23:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayAllNodesInWeatherAPI -->
+      </class> <!-- getRequest.TestAllNodes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
